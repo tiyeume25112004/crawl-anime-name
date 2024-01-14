@@ -1,2 +1,2 @@
 # crawl-anime-name
-tool crawl anime - oop fake
+tool crawl anime theo mùa, sort,... từ anime 47 - oop fake
